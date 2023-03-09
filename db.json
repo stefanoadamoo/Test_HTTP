@@ -1,5 +1,5 @@
 {
-  "articles": [
+    "articles": [
     {
       "id": 1,
       "title": "Primo Titolo",
@@ -18,5 +18,5 @@
       "url": "https://mail.google.com/mail/u/0/#inbox",
       "like": 165652
     }
-   ]
-  }
+  ]
+}
