@@ -1,0 +1,22 @@
+{
+  "articles"
+    {
+      "id": 1,
+      "title": "Primo Titolo",
+      "url": "https://github.com/stefanoadamoo/Test_HTTP/new/main",
+      "like": 567
+    },
+     {
+      "id": 2,
+      "title": "Secondo Titolo",
+      "url": "https://classroom.google.com/c/NTYyMjQwMTMzOTE4/a/NTk2MjM3ODc5MTE2/details",
+      "like": 1205
+    },
+     {
+      "id": 3,
+      "title": "Terzo titolo",
+      "url": "https://mail.google.com/mail/u/0/#inbox",
+      "like": 165652
+    }
+   ]
+  }
